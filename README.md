@@ -1,16 +1,17 @@
-# Credit Card Default Prediction
+# Credit Card Default Prediction Using Machine Learning
 
-## YBI Foundation Data Science Internship
+## Project Description
 
-### Submitted By
+Financial institutions face significant losses when customers fail to repay their credit card dues. This project uses machine learning techniques to predict whether a customer is likely to default on their credit card payment based on financial and demographic attributes.
 
-Husna Ashraf
+## Objectives
 
-## Project Objective
+* Analyze customer financial data.
+* Identify factors influencing credit card default.
+* Build a machine learning classification model.
+* Evaluate model performance using accuracy metrics.
 
-The objective of this project is to develop a machine learning model that predicts whether a customer is likely to default on credit card payments based on financial and demographic information.
-
-## Technologies Used
+## Tools and Libraries
 
 * Python
 * Pandas
@@ -20,18 +21,32 @@ The objective of this project is to develop a machine learning model that predic
 * Scikit-Learn
 * Google Colab
 
-## Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis
 
-The following visualizations were used:
+The dataset was analyzed using:
 
 * Feature Correlation Heatmap
-* Distribution of Default and Non-Default Customers
+* Default vs Non-Default Customer Distribution
 * Loan Amount Distribution by Default Status
 
-## Model Performance
+## Machine Learning Workflow
 
-The machine learning model achieved an accuracy of approximately 95%.
+1. Data Collection
+2. Data Preprocessing
+3. Exploratory Data Analysis
+4. Train-Test Split
+5. Model Training
+6. Prediction
+7. Performance Evaluation
 
-## Conclusion
+## Results
 
-The project successfully predicts credit card default risk and demonstrates the practical application of machine learning in the financial sector.
+The developed model achieved an accuracy of approximately 95%, indicating strong performance in predicting customer default risk.
+
+## Author
+
+Husna Ashraf
+
+## Internship
+
+YBI Foundation Data Science Internship
